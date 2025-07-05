@@ -1,2 +1,3 @@
 # AI-chat-bot
-Author- Sancharika Banerjee
+
+Author- Sancharika Banerjee (my project)
