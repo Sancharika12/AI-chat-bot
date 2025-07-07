@@ -76,7 +76,7 @@ chatContainer.scrollTo({top: chatContainer.scrollHeight, behavior: "smooth" })
 setTimeout(()=>{
 let html=`<img src="https://m.media-amazon.com/images/I/61aVMQqtjPL._UF1000,1000_QL80_.jpg" alt="" id="aiImage" width="10%">
 <div class="ai-chat-area">
-<img src="loading.webp" alt="" class="load" width="50px">
+<img src="https://i.pinimg.com/originals/eb/d1/e7/ebd1e7436c647d2743f18d03b0f172fa.gif" alt="" class="load" width="50px">
 </div>`
 let aiChatBox=createChatBox(html,"ai-chat-box")
 chatContainer.appendChild(aiChatBox)
